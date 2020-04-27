@@ -2,7 +2,7 @@
   "name": "marudhu_profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marudhupandian-ramaiah.github.com/marudhu",
+  "homepage": "https://marudhupandian-ramaiah.github.io/marudhu",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
