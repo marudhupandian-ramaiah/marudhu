@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marudhu/static/css/main.d1b05096.chunk.css",
+    "main.js": "/marudhu/static/js/main.bd1f3d07.chunk.js",
+    "main.js.map": "/marudhu/static/js/main.bd1f3d07.chunk.js.map",
+    "runtime-main.js": "/marudhu/static/js/runtime-main.eedb1d28.js",
+    "runtime-main.js.map": "/marudhu/static/js/runtime-main.eedb1d28.js.map",
+    "static/js/2.ef911d8c.chunk.js": "/marudhu/static/js/2.ef911d8c.chunk.js",
+    "static/js/2.ef911d8c.chunk.js.map": "/marudhu/static/js/2.ef911d8c.chunk.js.map",
+    "index.html": "/marudhu/index.html",
+    "precache-manifest.59805abcb77989b408bd2810f2b3d30a.js": "/marudhu/precache-manifest.59805abcb77989b408bd2810f2b3d30a.js",
+    "service-worker.js": "/marudhu/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/marudhu/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ef911d8c.chunk.js.LICENSE.txt": "/marudhu/static/js/2.ef911d8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eedb1d28.js",
+    "static/js/2.ef911d8c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bd1f3d07.chunk.js"
+  ]
+}
