@@ -14,7 +14,7 @@ class About extends Component {
                 >
                   <div className="col-md-12">
                     <div className="about-desc">
-                      <span className="heading-meta">About Us</span>
+                      <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         Hi, I'm<strong> Marudhupandian Ramaiah</strong>. I am a
