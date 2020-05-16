@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb23991abf88edec0fb0052d719fcd16",
+    "revision": "a95b34fc0dc6b17b518c694676cb3c44",
     "url": "/marudhu/index.html"
   },
   {
-    "revision": "64169f62e56cbef3e9c7",
+    "revision": "0abc70efa25dd95654fe",
     "url": "/marudhu/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marudhu/static/js/2.ef911d8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64169f62e56cbef3e9c7",
-    "url": "/marudhu/static/js/main.bd1f3d07.chunk.js"
+    "revision": "0abc70efa25dd95654fe",
+    "url": "/marudhu/static/js/main.24f234b1.chunk.js"
   },
   {
     "revision": "9ceefc216153e0f44860",
