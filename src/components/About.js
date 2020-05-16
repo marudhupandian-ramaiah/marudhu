@@ -18,12 +18,12 @@ class About extends Component {
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         Hi, I'm<strong> Marudhupandian Ramaiah</strong>. I am a
-                        software developer with full stack skill set. Have
+                        software developer with a full stack skill set. Have
                         involved in different software life cycles for almost 9
                         years.
                       </p>
                       <p>
-                        Worked for domains like Finance, Telecommunication,
+                        Worked in domains like Finance, Telecommunication,
                         Multimedia and Healthcare. Played different roles such
                         as IC, Lead, Developer and etc. Always looking to learn
                         new things and apply wherever possible. Passionate

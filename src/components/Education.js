@@ -54,9 +54,9 @@ class Education extends Component {
                       >
                         <div className="panel-body">
                           <p>
-                            Completed the course from Anna University during
-                            2007-11 with an aggregate of 72%. Received best
-                            project award in final year.
+                            Completed B.Tech(IT) from Mepco Schlenk Engineering
+                            College during 2007-11 with an aggregate of 72%.
+                            Received best project award in final year.
                           </p>
                         </div>
                       </div>

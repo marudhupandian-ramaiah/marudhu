@@ -30,7 +30,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                  <h3>Java</h3>
+                  <h3>Java / J2EE</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-1"
@@ -90,7 +90,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInRight"
               >
                 <div className="progress-wrap">
-                  <h3>Rest</h3>
+                  <h3>Rest API</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-4"
@@ -110,7 +110,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                  <h3>Database</h3>
+                  <h3>Database [ SQL, NO-SQL ]</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-5"
@@ -130,7 +130,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInRight"
               >
                 <div className="progress-wrap">
-                  <h3>Scripting</h3>
+                  <h3>Scripting [ Shell, Perl ]</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-6"
@@ -150,7 +150,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                  <h3>Cloud</h3>
+                  <h3>Cloud [ AWS, PCF ]</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-7"
@@ -190,7 +190,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                  <h3>DevOps</h3>
+                  <h3>CICD</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-9"
@@ -230,7 +230,7 @@ class Skill extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="progress-wrap">
-                  <h3>CICD</h3>
+                  <h3>Spring boot</h3>
                   <div className="progress">
                     <div
                       className="progress-bar color-11"
@@ -240,7 +240,7 @@ class Skill extends Component {
                       aria-valuemax="100"
                       style={{ width: "60%" }}
                     >
-                      <span>60%</span>
+                      <span>70%</span>
                     </div>
                   </div>
                 </div>
@@ -260,7 +260,7 @@ class Skill extends Component {
                       aria-valuemax="100"
                       style={{ width: "50%" }}
                     >
-                      <span>50%</span>
+                      <span>35%</span>
                     </div>
                   </div>
                 </div>
